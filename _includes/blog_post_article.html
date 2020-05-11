@@ -1,14 +1,14 @@
 <article class="card" itemscope itemtype="http://schema.org/BlogPosting">
   <div class="card-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <h4 class="post-meta">{{ page.summary }}</h4>
+    <h5 class="post-meta">{{ page.summary }}</h5>
     <p class="post-summary">
-      Posted by : {% if page.author %}
+      {% if page.author %}
       <span itemprop="author" itemscope itemtype="http://schema.org/Person">
         <span itemprop="name">{{ page.author }}</span> </span
-      >{% endif %} at
+      >{% endif %} 分享于
       <time datetime="{{ page.date }}" itemprop="datePublished"
-        >{{ page.date | date: "%b %-d, %Y" }}</time
+        >{{ page.date | date: "%Y-%m-%d" }}</time
       >
     </p>
     <span
@@ -17,7 +17,7 @@
     ></span>
     <div class="post-categories">
       {% if post %} {% assign categories = post.categories %} {% else %} {%
-      assign categories = page.categories %} {% endif %} Category : {% for
+      assign categories = page.categories %} {% endif %} 标签: {% for
       category in categories %}
       <a href="{{site.baseurl}}/blog/categories/{{category|slugize}}"
         >{{category}}</a

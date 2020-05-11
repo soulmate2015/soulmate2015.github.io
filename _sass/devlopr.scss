@@ -179,9 +179,10 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
 }
 
-a{
-    color: var(--link-color) !important;
+a {
+    color: var(--link-color);
 }
+
 /* Navigation Header */
 header {
     background-color: var(--main-background-color);
@@ -265,6 +266,22 @@ header {
 #blog-post-container{
     margin-top: -20px;
     margin-left: -35px;
+    
+    /* markdown */
+    ul {
+        li {
+            margin-left: 40px;
+        }
+    }
+    ol {
+        li {
+            margin-left: 40px;
+        }
+    }
+    blockquote {
+        padding-top: 13px;
+        padding-left: 15px;
+    }
 }
 
 .snipcart-modal__container {
@@ -624,7 +641,6 @@ footer {
     background-color: var(--main-background-color);
     color: var(--main-text-color);
 }
-
 
 
 /* Responsive Media Queries */

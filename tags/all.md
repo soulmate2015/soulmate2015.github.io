@@ -3,7 +3,6 @@ layout: page
 permalink: /blog/tags/
 ---
 
- 
 
 <h3>  {{ page.title }} </h3>
 
