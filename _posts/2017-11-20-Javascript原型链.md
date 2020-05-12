@@ -5,7 +5,7 @@ author: Tower
 date: '2017-11-20 00:00:00'
 category: Javascript
 summary: 理解js的灵魂之原型链
-thumbnail: typescript1.jpg
+thumbnail: 171120Prototype.jpg
 ---
 
 ## 构造函数的简单例子：

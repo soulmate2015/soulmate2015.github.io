@@ -5,7 +5,7 @@ author: Tower
 date: '2018-01-05 00:00:00'
 category: Javascript
 summary: 理解js的灵魂之描述属性
-thumbnail: typescript1.jpg
+thumbnail: 180105jsDesc.jpg
 ---
 
 Js对象的每个属性都有一个描述对象（Descriptor），用于控制该属性的行为。

@@ -1,7 +1,7 @@
 title: Tower
-subtitle: A Jekyll Theme
+subtitle: 攻城狮, 养鱼人, 养花人, 养猫人, 养猪人
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a Jekyll Theme Built For Developers
+  攻城狮，养鱼人，养花人，养猫人，养猪人
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -18,7 +18,7 @@ urls:
 
 author_logo: profile.png
 author: Tower
-author_bio: <p>喜欢挑战，渴望认知新的事物，并通过学习不断完善自己<P><h1>111<h2>
+author_bio: <p>喜欢挑战，渴望认知新的事物，并通过学习不断完善自己<P>
 author_email: "soulmatew2015@gmail.com"
 author_location: China
 # author_website_url: "http://johndoe.com"
@@ -81,15 +81,12 @@ flickr_username: ''
 # hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+# wakatime_username: 
 
 # syntax highlighter
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-
-# google analytics
-google_analytics: UA-46783401-10
 
 # Choose what to show ( can be true or false)
 show_author_work_experiences: true
@@ -98,11 +95,11 @@ show_author_project_details: false
 
 # algolia search
 algolia:
-  application_id: D9WA1YKTRQ
+  application_id: 2LAACFI8LG
   index_name: blog_posts # You can replace that with whatever name you want
   files_to_exclude: []
   nodes_to_index: 'article'
-  search_only_api_key: 58ffdd7cd6c45ec1577a7fcd789b1b9a
+  search_only_api_key: ee77bd41ff765dab42138a15c6afb2cd
 
 # pagination of posts
 paginate: 4

@@ -1,10 +1,10 @@
 {
   "name": "devlopr-jekyll",
-  "homepage": "https://github.com/sujaykundu777/devlopr-jekyll",
+  "homepage": "https://github.com/soulmate2015/tower_blog",
   "authors": [
-    "sujaykundu777 <sujaykundu777@gmail.com>"
+    "Towr"
   ],
-  "description": "A Jekyll Theme Built For Developers",
+  "description": "A Jekyll Blog",
   "main": "",
   "keywords": [
     "jekyll-theme",
