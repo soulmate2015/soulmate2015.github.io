@@ -3,7 +3,7 @@ layout: post
 title: 理解Javascript原型链
 author: Tower
 date: '2017-11-20 00:00:00'
-category: Javascript
+category: javascript
 summary: 理解js的灵魂之原型链
 thumbnail: 171120Prototype.jpg
 ---

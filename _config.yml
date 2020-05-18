@@ -162,5 +162,6 @@ exclude:
   - vendor/ruby/
 
 encoding: utf-8
+# permalink: /:year/:month/:day/:title
 
 destination: ./build

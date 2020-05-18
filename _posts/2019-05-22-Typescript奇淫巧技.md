@@ -3,7 +3,7 @@ layout: post
 title: TS奇淫巧技
 author: Tower
 date: '2019-05-22 00:00:00'
-category: Typescript
+category: typescript
 summary: TS使用过程中的一些技巧
 thumbnail: 190522typescript.jpg
 ---

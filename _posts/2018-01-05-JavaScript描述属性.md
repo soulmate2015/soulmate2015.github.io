@@ -3,7 +3,7 @@ layout: post
 title: 理解JavaScript描述属性
 author: Tower
 date: '2018-01-05 00:00:00'
-category: Javascript
+category: javascript
 summary: 理解js的灵魂之描述属性
 thumbnail: 180105jsDesc.jpg
 ---
