@@ -3,7 +3,7 @@ layout: post
 title: 利用jenkins打造CI/CD流程
 author: Tower
 date: '2018-10-11 00:00:00'
-category: framework
+category: automation
 summary: jenkins构建
 thumbnail: 181011jenkins.png
 ---
