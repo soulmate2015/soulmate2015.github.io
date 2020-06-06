@@ -25,43 +25,43 @@ author_location: China
 typewrite-text: Always On the Road.
 
 author_work_experiences:
-            - company_name: 友金所
-              company_logo: work1.jpg
-              company_url: https://www.yyfaxgroup.com/
-              designation: 前端开发
-              description: 贷款端产品开发
-              visibility: true
-            - company_name: 兔展
-              company_logo: work2.jpg
-              company_url: https://www.rabbitpre.com/
-              designation: 前端开发
-              description: 兔有米项目产品开发
-              visibility: true
-            - company_name: 菱歌科技
-              company_logo: work3.jpg
-              company_url: http://www.lingeyun.com/
-              designation: 全栈开发
-              description: 菱歌云管理平台开发
-              visibility: true
+  - company_name: 友金所
+    company_logo: work1.jpg
+    company_url: https://www.yyfaxgroup.com/
+    designation: 前端开发
+    description: 贷款端产品开发
+    visibility: true
+  - company_name: 兔展
+    company_logo: work2.jpg
+    company_url: https://www.rabbitpre.com/
+    designation: 前端开发
+    description: 兔有米项目产品开发
+    visibility: true
+  - company_name: 菱歌科技
+    company_logo: work3.jpg
+    company_url: http://www.lingeyun.com/
+    designation: 全栈开发
+    description: 菱歌云管理平台开发
+    visibility: true
 
 author_education_details:
-              - college_logo: education1.jpg
-                college_name: 惠州学院
-                college_degree: 电气工程及其自动化
-                description: 管理学学士
-                visibility: true             
-              - college_logo: education2.jpg
-                college_name: 华中科技大学
-                college_degree: 计算机科学与技术
-                description: 转学
-                visibility: true
+  - college_logo: education1.jpg
+    college_name: 惠州学院
+    college_degree: 电气工程及其自动化
+    description: 管理学学士
+    visibility: true             
+  - college_logo: education2.jpg
+    college_name: 华中科技大学
+    college_degree: 计算机科学与技术
+    description: 转学
+    visibility: true
 
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: true
+  - project_thumbnail: gamershub.png
+    project_title: Gamers Hub
+    project_description: A Platform built for Gamers and Game Devs
+    project_url: https://gamershub.in
+    visibility: true
 
 # social links
 twitter_username: ''

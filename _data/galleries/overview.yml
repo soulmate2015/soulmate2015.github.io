@@ -1,9 +1,19 @@
 -
-  title: 默认分类
-  directory: mountains
+  title: 生活
+  directory: life
   preview:
-    filename: 1.jpg
-    original: 1-thumbnail.jpg
+    filename: life1
+    original: life1.jpg
     sizes:
-    - 1-thumbnail.jpg
-    thumbnail: 1-thumbnail.jpg
+    - life1.jpg
+    thumbnail: life1.jpg
+
+-
+  title: 技术
+  directory: technology
+  preview:
+    filename: technology1.jpg
+    original: technologyl.jpg
+    sizes:
+    - technology1.jpg
+    thumbnail: technology1.jpg

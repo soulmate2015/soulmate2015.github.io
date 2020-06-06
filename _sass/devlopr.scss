@@ -238,12 +238,20 @@ header {
     color: var(--bold-color) !important;
 }
 
+.img-thumbnail-container {
+    display: inline-block;
+    p {
+        text-align: center;
+    }
+}
+
 .img-thumbnail {
-    padding: .25rem;
-    background-color: #000 !important;
-    border: 1px solid #020305 !important;
+    padding: .20rem !important;
+    background-color: #6A5ACD !important;
+    // border: 1px solid #020305 !important;
     border-radius: .25rem;
-    max-width: 100%;
+    // max-width: 100%;
+    max-width: 450px !important;
     height: auto;
     margin: 15px;
 }
@@ -441,7 +449,6 @@ header {
     height: 4px;
     width: 0;
 }
-
 
 /* Homepage project cards*/
 

@@ -1,0 +1,38 @@
+picture_path: life
+preview:
+  filename: life1
+  original: life1.jpg
+  sizes:
+  - life1.jpg
+  thumbnail: life1.jpg
+pictures:
+- filename: life1
+  original: life1.jpg
+  sizes:
+  - life1.jpg
+  thumbnail: life1.jpg
+- filename: life2
+  original: life2.jpg
+  sizes:
+  - life2.jpg
+  thumbnail: life2.jpg
+- filename: life3
+  original: life3.jpg
+  sizes:
+  - life3.jpg
+  thumbnail: life3.jpg  
+- filename: life4
+  original: life4.jpg
+  sizes:
+  - life4.jpg
+  thumbnail: life4.jpg
+- filename: life5
+  original: life5.jpg
+  sizes:
+  - life5.jpg
+  thumbnail: life5.jpg
+- filename: life6
+  original: life6.jpg
+  sizes:
+  - life6.jpg
+  thumbnail: life6.jpg

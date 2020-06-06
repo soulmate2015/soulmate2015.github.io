@@ -1,0 +1,23 @@
+picture_path: technology
+preview:
+  filename: technology1
+  original: technology1.jpg
+  sizes:
+  - technology1.jpg
+  thumbnail: technology1.jpg
+pictures:
+- filename: V8编译过程
+  original: technology1.jpg
+  sizes:
+  - technology1.jpg
+  thumbnail: technology1.jpg
+- filename: 前后端关注点
+  original: technology2.jpg
+  sizes:
+  - technology2.jpg
+  thumbnail: technology2.jpg
+- filename: 常见数据结构
+  original: technology3.jpg
+  sizes:
+  - technology3.jpg
+  thumbnail: technology3.jpg
