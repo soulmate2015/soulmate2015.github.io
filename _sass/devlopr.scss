@@ -255,6 +255,7 @@ header {
     height: auto;
     margin: 15px;
 }
+
 #search-icon {
     color: var(--search-color) !important;
 }
@@ -738,6 +739,15 @@ footer {
                 padding: 10rem 1rem !important;
             }
 
+            .img-thumbnail {
+                padding: .15rem !important;
+                background-color: #6A5ACD !important;
+                border-radius: .15rem;
+                max-width: 100% !important;
+                height: auto;
+                margin: 10px;
+            }
+
 }
 
 /* Smartphones */
@@ -818,6 +828,14 @@ footer {
           padding: 10rem 1rem !important;
       }
 
+      .img-thumbnail {
+        padding: .15rem !important;
+        background-color: #6A5ACD !important;
+        border-radius: .15rem;
+        max-width: 100% !important;
+        height: auto;
+        margin: 10px;
+    }
 }
 
  /*
@@ -876,16 +894,25 @@ footer {
               margin-top: 30px;
           }
 
-          .blog-post {
-                width: 100%;
-                height: auto;
-                margin: 20px !important;
-            }
+        .blog-post {
+            width: 100%;
+            height: auto;
+            margin: 20px !important;
+        }
 
-            .product{
-                width: auto;
-                float:left;
-            }
+        .product{
+            width: auto;
+            float:left;
+        }
+
+        .img-thumbnail {
+            padding: .15rem !important;
+            background-color: #6A5ACD !important;
+            border-radius: .15rem;
+            max-width: 100% !important;
+            height: auto;
+            margin: 10px;
+        }
 
  }
 
