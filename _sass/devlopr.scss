@@ -250,7 +250,8 @@ header {
     background-color: #6A5ACD !important;
     // border: 1px solid #020305 !important;
     border-radius: .25rem;
-    // max-width: 100%;
+    min-width: 300px;
+    min-height: 200px;
     max-width: 450px !important;
     height: auto;
     margin: 15px;
@@ -743,6 +744,8 @@ footer {
                 padding: .15rem !important;
                 background-color: #6A5ACD !important;
                 border-radius: .15rem;
+                min-width: 180px;
+                min-height: 120px;
                 max-width: 100% !important;
                 height: auto;
                 margin: 10px;
